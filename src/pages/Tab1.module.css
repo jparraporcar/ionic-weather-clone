@@ -1,0 +1,10 @@
+.ion-toolbar-dashboard {
+  --ion-safe-area-top: 55px;
+  --background: white;
+  border-bottom: 1px solid rgb(204, 203, 203);
+  --padding-end: 15px;
+}
+
+.refreshOutline {
+  margin-bottom: 5px;
+}

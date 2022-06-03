@@ -1,0 +1,7 @@
+{
+  "name": "jppweather",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
