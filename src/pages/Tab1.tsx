@@ -36,7 +36,7 @@ const Tab1: React.FC = () => {
     {
       lat: coordQueryState.lat,
       lon: coordQueryState.lon,
-      appid: "cd555b96865912ac5781d36d6d7de140",
+      appid: "cd555b96865912ac5781d36d6d7de140", // free of cost and not for use in production
       units: "metric",
     },
     { skip: coordQueryState.skip }
